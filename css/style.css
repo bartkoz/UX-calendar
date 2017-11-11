@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700");
+body{
+  background-image:url("http://www.mega-tapety.info/resize/krajobrazy-morzairzeki-1920-1080-6046.jpg");
+   background-repeat:no-repeat;
+   background-size:cover;
+  font-family:Roboto;
+}
+.container{
+  display:flex; 
+  justify-content: center;
+}
+
+.canvas{
+  margin-top:100px;
+  background: white;
+  width: 310px;
+  height:510px;
+}
+.halfcanvas{
+  background-image:url("http://www.mega-tapety.info/resize/krajobrazy-morzairzeki-1280-800-6088.jpg");
+  opacity:0.80;
+  background-repeat:no-repeat;
+  background-size:cover;
+  width:310px;
+  height:250px;
+  margin-left:-20px;
+  margin-top:-20px;
+}
+.days{
+  margin-top:10px;
+  color:grey;
+}
+.daysnums{
+  margin-top:15px;
+  color:grey;
+  text-align:center;
+}
+.greycircle{
+  width:30px;
+  height:30px;
+  border-radius:100%;
+  background-color:rgba(211,211,211,0.8);*/
+  position:absolute;
+  margin-left:45px;
+  margin-top:-23px;
+}
+.face{
+ border-radius:100%;
+  width:40px;
+  height:40px;
+  margin-left:18px;
+  background-size: cover;
+  display:inline-block;
+  background-image:url("https://pre00.deviantart.net/2cef/th/pre/i/2012/249/3/e/jesse_pinkman_by_sam_peterson-d5ds3rm.jpg");
+}
+.face2{
+ border-radius:100%;
+  margin-left:18px;
+  width:40px;
+  height:40px;
+  background-repeat:no-repeat;
+  background-image:url("https://img00.deviantart.net/ccee/i/2013/301/6/1/breaking_bad__skyler__oil_paint_re_edit_by_nerdboy69-d5nxiok.jpg");
+  background-size: cover;
+  display:inline-block;
+}
+.face3{
+ border-radius:100%;
+  margin-left:18px;
+  width:40px;
+  height:40px;
+  background-repeat:no-repeat;
+  background-image:url("http://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_800x600_gustavo-fring.jpg");
+  background-size: cover;
+    display:inline-block;
+}
+.mainface{
+  text-align:center;
+  border-radius:100%;
+  width:100px;
+  height:100px;
+  background-repeat:no-repeat;
+  background-image:url("https://www.artpeoplegallery.com/wp-content/uploads/2016/02/55-Breaking-Bad-Walter-White-Heisenberg-Glasses-Painting-Portrait-by-Ahmad-Kadi-680x425.jpg");
+  background-size: cover;
+  margin-left:34%;
+}
+.ptop{
+  color:white;
+  text-align:center;
+  padding-top:50px;
+  font-family:'Open Sans';
+  font-size:25px;
+}
+#month{
+  padding-top:25px;
+  text-align:center;
+}
+h1{
+  font-size:10px;
+  color:white;
+  
+}
+i{
+  color:white;
+}
+#arrowleft{
+  position:absolute;
+  padding-left:10px;
+  padding-top:21px;
+}
+#arrowright{
+  position:absolute;
+  padding-top:21px;
+  padding-left:290px;
+}
+.calendarentry{
+  color:##2F4F4F;
+  font-size:12px;
+  text-align:center;
+  padding-left:20px; 
+}
+.distancekeeper{
+  margin-top:-1px;
+}
+.entrybottom{
+  font-size:10px;
+  color:grey;
+  padding-left:20px; 
+  margin-top:-5px;
+}
+.footer{
+  height:20px;
+  text-align:center;
+  color:white;
+  width:100%;
+  position:absolute;
+}
+#footertext{
+  margin-bottom:0;
+}
+a:link, a:visited{
+  color:white;
+}
