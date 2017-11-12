@@ -141,3 +141,71 @@ i{
 a:link, a:visited{
   color:white;
 }
+.plus{
+  width:50px;
+  height:50px; 
+  background-color:#FF1493;
+  font-size:30px;
+  color:white;
+  border-radius:100%;
+  margin-left:81%;
+  margin-top:-15%;
+  text-align:center;
+}
+.bars{
+  padding-left: 3%;
+  padding-top: 3%;
+  position:absolute;
+  opacity:0.6;
+}
+.search{
+  padding-left: 50%;
+  padding-top: 3%;
+  position:absolute;
+  opacity:0.8;
+}
+.plus:hover,
+.loginbutton:hover{
+  background:black;
+  opacity:0.5;
+}
+.logincredentials{
+  margin-top:100%;
+  text-align:left;
+}
+.loginbox{
+  height:20px;
+  width:100%;
+  margin-left:5%;
+}
+.white{
+  color:white;
+  font-size:12px;
+  display:inline-block;
+  padding-left:20px;
+}
+.white2{
+  color:white;
+  font-size:12px;
+  display:inline-block;
+  padding-left:23px;
+}
+hr{
+  color:white;
+}
+.loginbutton{
+  background-color:#FF1493;
+  width:80%;
+  height:30px;
+  margin-left:10%;
+  margin-top:25%;
+  color:white;
+  font-size:12px;
+  opacity:1;
+}
+.check{
+  font-size:30px;
+  position:absolute;
+  margin-left:9%;
+  margin-top:5%;
+}
