@@ -151,6 +151,12 @@ a:link, a:visited{
   margin-left:81%;
   margin-top:-15%;
   text-align:center;
+  -webkit-transition: all 0.5s ease-out;
+  -moz-transition: all 0.5s ease-out;
+  -o-transition: all 0.5s ease-out;
+  -ms-transition: all 0.5s ease-out;
+   transition: all 0.5s ease-out;
+}
 }
 .bars{
   padding-left: 3%;
@@ -202,4 +208,17 @@ hr{
   color:white;
   font-size:12px;
   opacity:1;
+  position:relative;
+  text-align: center;
+    -webkit-transition: all 0.5s ease-out;
+  -moz-transition: all 0.5s ease-out;
+  -o-transition: all 0.5s ease-out;
+  -ms-transition: all 0.5s ease-out;
+   transition: all 0.5s ease-out;
+}
+.check{
+  font-size:30px;
+  position:absolute;
+  margin-left:9%;
+  margin-top:5%;
 }
